@@ -12,4 +12,4 @@ Para testar a api, primeiramente instale os pacotes necessários com o comando: 
 
 Em seguida, use o comando "npm start" para iniciar o server
 
-Caso queria alterar a porta, altere a constante PORT no arquivo server.js
+Caso queria alterar a porta, altere o primeiro parametro na funcao app.listen() no arquivo server.js
